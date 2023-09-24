@@ -2,7 +2,7 @@
 
 ## Mock server use
 
-Run the `actix-server` main function in one terminal emulator, it is already set to localhost
+Run the `actix-server` main function in one terminal emulator. It is already set to localhost
 
 ```bash
 # From one terminal instance
