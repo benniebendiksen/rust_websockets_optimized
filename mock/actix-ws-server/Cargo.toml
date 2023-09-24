@@ -1,0 +1,13 @@
+[package]
+name = "actix-ws-server"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+actix = "0.13.0"
+actix-web = "4.1.0"
+actix-web-actors = "4.2.0"
+arbitrage-processing = { path = "../../client" }
+rand = "0.8.5"
+serde = { version = "1.0.171", features = ["derive"] }
+serde_json = { version = "1.0.59", features = ["raw_value"] }
