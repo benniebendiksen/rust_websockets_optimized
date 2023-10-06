@@ -13,10 +13,9 @@ n = 3
 url = "http://localhost:50000"
 # stream_url = "wss://stream.binance.com:443/"
 stream_url = "http://localhost:50000/stream"
+# testnet keys
 api = "0668Tj19rdXW6e8fsiTr0mWidcEYDozuqvQrgNSa6yYjHH4vhTc605UXfjTj5guW"
 secret_key = "j8geX4SFisFUBAdBXpywzwNT3wgITMJHePJ7G0UPgz4uLX7IP0DfcIbWjk4QpRxG"
-#api = "SLrOc5Rkkgvk6UEradGu9A9ljVpUEk5uO1yxGYDIaMHD27QBnFs6utM1p1VgASXy"
-#secret_key = "U8HhVpHUTq4guboJeAlzUmCGyPwi3gJEkzLZM53b9OI0a2VIbstVHwCxH9u031oG"
 
 
 
