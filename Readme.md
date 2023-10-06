@@ -1,6 +1,6 @@
 # Rust Websockets Optimized
 
-A pyo3 mostly rust arbitraging project. Uses awc Websocket client.  Mock server use allows for local benchmarking.
+A pyo3 py-to-rust arbitraging project. Uses awc Websocket client.  Mock server use allows for local benchmarking.
 
 ## Mock server use
 
