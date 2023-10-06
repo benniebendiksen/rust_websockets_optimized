@@ -1,4 +1,6 @@
-# Arbitrage processing
+# Rust Websockets Optimized
+
+A proof of concept of a fast rust websocket framework for speedy arbitraging. Mock server use allows for local benchmarking.
 
 ## Mock server use
 
@@ -11,6 +13,7 @@ cargo run
 ```
 
 ## Python bindings
+Assets comprising an arbitrage triangle are dynamically passed in from Python. 
 
 Install maturin tool. Create and activate a virtual environment with:
 
